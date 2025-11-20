@@ -1,0 +1,29 @@
+.card1{
+  width: 300px !important;
+  float: left;
+  margin: 10px;
+  cursor: pointer;
+ 
+}
+.img1{
+ height: 300px;
+ width: 300px;
+ 
+  
+    
+}
+.btn1{
+  margin-left: 200px;
+
+}
+.btn1 button {
+  margin: 20px;
+  padding: 7px;
+  width: 120px;
+}
+.n{
+  text-decoration: none;
+  margin: 5px;
+  color: black;
+}
+
